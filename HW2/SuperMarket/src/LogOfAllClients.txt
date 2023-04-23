@@ -1,0 +1,104 @@
+апр. 23, 2023 5:19:12 PM Classes.LogAll logInfo
+INFO: Boris клиент добавлен в очередь 
+апр. 23, 2023 5:19:12 PM Classes.LogAll logInfo
+INFO: Boris клиент пришёл в магазин 
+апр. 23, 2023 5:19:12 PM Classes.LogAll logInfo
+INFO: VIP Fedor клиент добавлен в очередь 
+апр. 23, 2023 5:19:12 PM Classes.LogAll logInfo
+INFO: VIP Fedor клиент пришёл в магазин 
+апр. 23, 2023 5:19:12 PM Classes.LogAll logInfo
+INFO: Vasya клиент добавлен в очередь 
+апр. 23, 2023 5:19:12 PM Classes.LogAll logInfo
+INFO: Vasya клиент пришёл в магазин 
+апр. 23, 2023 5:19:12 PM Classes.LogAll logInfo
+INFO: One клиент добавлен в очередь 
+апр. 23, 2023 5:19:12 PM Classes.LogAll logInfo
+INFO: One клиент пришёл в магазин 
+апр. 23, 2023 5:19:12 PM Classes.LogAll logInfo
+INFO: Two клиент добавлен в очередь 
+апр. 23, 2023 5:19:12 PM Classes.LogAll logInfo
+INFO: Two клиент пришёл в магазин 
+апр. 23, 2023 5:19:12 PM Classes.LogAll logInfo
+INFO: Three клиент добавлен в очередь 
+апр. 23, 2023 5:19:12 PM Classes.LogAll logInfo
+INFO: Three клиент пришёл в магазин 
+апр. 23, 2023 5:19:12 PM Classes.LogAll logInfo
+INFO: Four клиент добавлен в очередь 
+апр. 23, 2023 5:19:12 PM Classes.LogAll logInfo
+INFO: Four клиент пришёл в магазин 
+апр. 23, 2023 5:19:12 PM Classes.LogAll logInfo
+INFO: Five клиент добавлен в очередь 
+апр. 23, 2023 5:19:12 PM Classes.LogAll logInfo
+INFO: Five клиент пришёл в магазин 
+апр. 23, 2023 5:19:12 PM Classes.LogAll logInfo
+INFO: Boris клиент сделал заказ 
+апр. 23, 2023 5:19:12 PM Classes.LogAll logInfo
+INFO: VIP Fedor клиент сделал заказ 
+апр. 23, 2023 5:19:12 PM Classes.LogAll logInfo
+INFO: Vasya клиент сделал заказ 
+апр. 23, 2023 5:19:12 PM Classes.LogAll logInfo
+INFO: One клиент сделал заказ 
+апр. 23, 2023 5:19:12 PM Classes.LogAll logInfo
+INFO: Two клиент сделал заказ 
+апр. 23, 2023 5:19:12 PM Classes.LogAll logInfo
+INFO: Three клиент сделал заказ 
+апр. 23, 2023 5:19:12 PM Classes.LogAll logInfo
+INFO: Four клиент сделал заказ 
+апр. 23, 2023 5:19:12 PM Classes.LogAll logInfo
+INFO: Five клиент сделал заказ 
+апр. 23, 2023 5:19:12 PM Classes.LogAll logInfo
+INFO: Boris получил свой заказ. Качество заказа: 69%
+апр. 23, 2023 5:19:12 PM Classes.LogAll logInfo
+INFO: Boris получил свой заказ. Качество заказа: 69%
+апр. 23, 2023 5:19:12 PM Classes.LogAll logInfo
+INFO: Boris получил свой заказ. Качество заказа: 77%
+апр. 23, 2023 5:19:12 PM Classes.LogAll logInfo
+INFO: VIP Fedor получил свой заказ. Качество заказа: 68%
+апр. 23, 2023 5:19:12 PM Classes.LogAll logInfo
+INFO: VIP Fedor получил свой заказ. Качество заказа: 67%
+апр. 23, 2023 5:19:12 PM Classes.LogAll logInfo
+INFO: VIP Fedor получил свой заказ. Качество заказа: 76%
+апр. 23, 2023 5:19:12 PM Classes.LogAll logInfo
+INFO: Vasya получил свой заказ. Качество заказа: 71%
+апр. 23, 2023 5:19:12 PM Classes.LogAll logInfo
+INFO: One в заказе отказано. Такая акция в данный момент не проводится
+апр. 23, 2023 5:19:12 PM Classes.LogAll logInfo
+INFO: Two получил свой заказ. Дарёному коню в зубы не смотрят) 
+апр. 23, 2023 5:19:12 PM Classes.LogAll logInfo
+INFO: Three получил свой заказ. Дарёному коню в зубы не смотрят) 
+апр. 23, 2023 5:19:12 PM Classes.LogAll logInfo
+INFO: Four в заказе отказано. Закончился акционный товар
+апр. 23, 2023 5:19:12 PM Classes.LogAll logInfo
+INFO: Five в заказе отказано. Закончился акционный товар
+апр. 23, 2023 5:19:12 PM Classes.LogAll logInfo
+INFO: Boris клиент ушёл из очереди 
+апр. 23, 2023 5:19:12 PM Classes.LogAll logInfo
+INFO: VIP Fedor клиент ушёл из очереди 
+апр. 23, 2023 5:19:12 PM Classes.LogAll logInfo
+INFO: Vasya клиент ушёл из очереди 
+апр. 23, 2023 5:19:12 PM Classes.LogAll logInfo
+INFO: One клиент ушёл из очереди 
+апр. 23, 2023 5:19:12 PM Classes.LogAll logInfo
+INFO: Two клиент ушёл из очереди 
+апр. 23, 2023 5:19:12 PM Classes.LogAll logInfo
+INFO: Three клиент ушёл из очереди 
+апр. 23, 2023 5:19:12 PM Classes.LogAll logInfo
+INFO: Four клиент ушёл из очереди 
+апр. 23, 2023 5:19:12 PM Classes.LogAll logInfo
+INFO: Five клиент ушёл из очереди 
+апр. 23, 2023 5:19:12 PM Classes.LogAll logInfo
+INFO: Boris клиент ушёл из магазина 
+апр. 23, 2023 5:19:12 PM Classes.LogAll logInfo
+INFO: VIP Fedor клиент ушёл из магазина 
+апр. 23, 2023 5:19:12 PM Classes.LogAll logInfo
+INFO: Vasya клиент ушёл из магазина 
+апр. 23, 2023 5:19:12 PM Classes.LogAll logInfo
+INFO: One клиент ушёл из магазина 
+апр. 23, 2023 5:19:12 PM Classes.LogAll logInfo
+INFO: Two клиент ушёл из магазина 
+апр. 23, 2023 5:19:12 PM Classes.LogAll logInfo
+INFO: Three клиент ушёл из магазина 
+апр. 23, 2023 5:19:12 PM Classes.LogAll logInfo
+INFO: Four клиент ушёл из магазина 
+апр. 23, 2023 5:19:12 PM Classes.LogAll logInfo
+INFO: Five клиент ушёл из магазина 

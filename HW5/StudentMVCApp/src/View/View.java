@@ -5,6 +5,7 @@ import java.util.Scanner;
 
 import Controller.iGetView;
 import Model.Student;
+
 /** Класс для вывода информации в консоль на русском языке */
 public class View implements iGetView {
     public void printAllStudents(List<Student> students) {
@@ -12,7 +13,7 @@ public class View implements iGetView {
         students.forEach(el -> System.out.println(el));
         System.out.println("Конец списка");
     }
-    
+
     public String prompt() {
         Scanner sc = new Scanner(System.in);
         System.out.println("Для отображения полного списка команд введите HELP\nВведите команду: ");
@@ -25,7 +26,7 @@ public class View implements iGetView {
 
     public void help() {
         System.out.println("RU - сменить язык на русский \n" +
-                "ENG - сменить язык на английский \n" + 
+                "ENG - сменить язык на английский \n" +
                 "HELP - отобразить все доступные команды \n" +
                 "LIST - вывести список на экран \n" +
                 "DELETE - удалить элемент списка по идентификатору \n" +
@@ -43,7 +44,8 @@ public class View implements iGetView {
 
     @Override
     public void resultOfDelete(boolean f) {
-        System.out.println(f ? "Студент успешно удалён из списка " : "Студент с таким идентификатором не найден в списке ");
+        System.out.println(
+                f ? "Студент успешно удалён из списка " : "Студент с таким идентификатором не найден в списке ");
     }
 
     @Override

@@ -6,16 +6,18 @@ import java.util.List;
 import java.util.Scanner;
 
 import Controller.iGetModel;
-/**Класс ModelHM реализует интерфейс iGetModel и хранит список студентов. */
+
+/** Класс ModelHM реализует интерфейс iGetModel и хранит список студентов. */
 public class ModelHM implements iGetModel {
     /**
-    * Хранит список студентов типа HashMap<Integer, Student>
-    */
+     * Хранит список студентов типа HashMap<Integer, Student>
+     */
     private HashMap<Integer, Student> students;
 
     /**
      * Конструктор класса ModelHM инициализирует его передаваемым списком
      * студентов.
+     * 
      * @param students список студентов типа List<Student>.
      */
     public ModelHM(List<Student> students) {

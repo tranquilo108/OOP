@@ -31,8 +31,9 @@ public class App {
         students2.add(s6);
         students2.add(s7);
         students2.add(s8);
-
-        FileRepo mFileRepo = new FileRepo("C:\\Projects\\GB\\Java[GB]\\OOP\\HW5\\StudentMVCApp\\StudentDB.txt");//Не смог разобраться почему приходится прописывать полный путь до файла. Видимо дело в настройках VSCode
+        
+        FileRepo mFileRepo = new FileRepo("StudentDB.txt");//Не смог разобраться почему приходится прописывать полный путь до файла. Видимо дело в настройках VSCode
+        //FileRepo mFileRepo = new FileRepo("C:\\Projects\\GB\\Java[GB]\\OOP\\HW5\\StudentMVCApp\\StudentDB.txt");
         // students.forEach(el -> mFileRepo.addStudent(el));
         // for (Student student : students) {
         //     mFileRepo.addStudent(student);
